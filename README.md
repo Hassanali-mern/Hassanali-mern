@@ -18,8 +18,8 @@
 
 ## 📈 GitHub Stats  
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Hassanali-mern=YourGitHubUsername&layout=compact&theme=radical)  
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanali-mern&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanali-mern&layout=compact&theme=radical)  
 
 ---
 
