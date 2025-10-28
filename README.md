@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Hassan Ali!  
 
-🚀 **Front-End Developer | JavaScript Enthusiast | Lifelong Learner**  
+ **Front-End Developer | JavaScript Lover | Lifelong Learner**  
 
 💡 Passionate about building interactive, user-friendly, and responsive web applications.  
 🎯 Always exploring new technologies and improving my craft.  
