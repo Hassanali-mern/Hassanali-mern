@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Hassan Ali!  
 
-  **Front-End Developer | JavaScript Lover | Lifelong Learner**  
+  MERN Stack Developer | Backend Learner | Building Real Projects  
 
 💡 Passionate about building interactive, user-friendly, and responsive web applications.  
 🎯 Always exploring new technologies and improving my craft.  
@@ -9,8 +9,8 @@
 
 ## 🔧 Tech Stack  
 
-- 🌐 **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- ⚙️ **Backend (Learning):** Node.js, Express  
+- 🌐 **Frontend:** React.js, Tailwind CSS, Redux Toolkit, Tanstack Querry , React Router  
+- ⚙️ **Backend (Learning):** Node.js, Express , MongoDB, Mongoose
 - 🛠️ **Tools:** Git, GitHub, VS Code, Firebase  
 - 🎨 **UI/UX:** Responsive Design, Modern Layouts  
 
