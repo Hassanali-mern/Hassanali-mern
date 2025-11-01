@@ -33,7 +33,7 @@
 
 ## 📬 Connect With Me  
 
-- 💼 [LinkedIn](www.linkedin.com/in/hassan-ali-abb517386)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/hassan-ali-abb517386/)  
 - 🌐 [Portfolio](-- on working --)  
 - 📧 Email: mrhassanali667@gmail.com  
 
