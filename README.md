@@ -18,16 +18,16 @@
 
 ## 📈 GitHub Stats  
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassanali-mern&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanali-mern&layout=compact&theme=radical)  
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhassanali667&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhassanali667&layout=compact&theme=radical)  
 
 ---
 
 ## 🌟 Featured Projects  
 
-🔹 [🛒 E-Commerce Website (React)](https://github.com/Hassanali-mern/E-commerce) – A modern e-commerce web app with product listing, cart, and responsive design.  
-🔹 [Responsive ToDo List](https://github.com/Hassanali-mern/Todo-List) – A ToDo app with localStorage support.  
-🔹 [Number Guessing Game](https://github.com/Hassanali-mern/Number-Guesing-Game) – Fun game with random number generation & hints.  
+🔹 [🛒 E-Commerce Website (React)](https://github.com/mrhassanali667/E-commerce) – A modern e-commerce web app with product listing, cart, and responsive design.  
+🔹 [Responsive ToDo List](https://github.com/mrhassanali667/Todo-List) – A ToDo app with localStorage support.  
+🔹 [Number Guessing Game](https://github.com/mrhassanali667/Number-Guesing-Game) – Fun game with random number generation & hints.  
 
 ---
 
