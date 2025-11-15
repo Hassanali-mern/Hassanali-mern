@@ -1,42 +1,62 @@
-# 👋 Hey there, I'm Hassan Ali!  
+<h1 align="center">Hi, I'm Hassan Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-  MERN Stack Developer | Backend Learner | Building Real Projects  
-
-💡 Passionate about building interactive, user-friendly, and responsive web applications.  
-🎯 Always exploring new technologies and improving my craft.  
-
----
-
-## 🔧 Tech Stack  
-
-- 🌐 **Frontend:** React.js, Tailwind CSS, Redux Toolkit, Tanstack Querry , React Router  
-- ⚙️ **Backend (Learning):** Node.js, Express , MongoDB, Mongoose
-- 🛠️ **Tools:** Git, GitHub, VS Code, Firebase  
-- 🎨 **UI/UX:** Responsive Design, Modern Layouts  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;JavaScript+%7C+NodeJS+%7C+Firebase+%7C;Building+Clean+%26+Scalable+Apps;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 📈 GitHub Stats  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **About Me**
+I’m a passionate **MERN Stack Developer** who loves building fast, scalable and user-friendly applications.  
+I enjoy solving real-world problems, improving UI/UX and exploring new technologies.
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhassanali667&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhassanali667&layout=compact&theme=radical)  
-
----
-
-## 🌟 Featured Projects  
-
-🔹 [🛒 E-Commerce Website (React)](https://github.com/mrhassanali667/E-commerce) – A modern e-commerce web app with product listing, cart, and responsive design.  
-🔹 [Responsive ToDo List](https://github.com/mrhassanali667/Todo-List) – A ToDo app with localStorage support.  
-🔹 [Number Guessing Game](https://github.com/mrhassanali667/Number-Guesing-Game) – Fun game with random number generation & hints.  
+-  I’m currently learning **Backend**
+-  Focused on writing **clean, reusable & optimized code**
+-  Love building **Full-Stack Projects**
+-  Ask me about **React, NodeJS, MongoDB, Firebase**
 
 ---
 
-## 📬 Connect With Me  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/hassan-ali-abb517386/)  
-- 🌐 [Portfolio](-- on working --)  
-- 📧 Email: mrhassanali667@gmail.com  
+## 🌐 **Connect with Me**
+<p align="center">
+ <a href="https://www.linkedin.com/" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+ <a href="mailto:yourgmail@gmail.com" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
+ <a href="https://www.facebook.com/" target="_blank"><img height="42" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"></a>
+</p>
 
 ---
 
-⭐️ From [Hassan Ali](https://github.com/mrhassanali667)
+## 🛠️ **Technologies & Tools**
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" height="40" title="JavaScript">
+<img src="https://img.icons8.com/office/512/react.png" height="40" title="React">
+<img src="https://img.icons8.com/color/2x/nodejs.png" height="40" title="Node.js">
+<img src="https://img.icons8.com/color/2x/nextjs.png" height="40" title="Next.js">
+<img src="https://img.icons8.com/color/2x/flutter.png" height="40" title="Flutter">
+<img src="https://img.icons8.com/color/2x/mongodb.png" height="40" title="MongoDB">
+<img src="https://img.icons8.com/color/2x/firebase.png" height="40" title="Firebase">
+<img src="https://img.icons8.com/stickers/2x/css3.png" height="40" title="CSS3">
+<img src="https://img.icons8.com/color/2x/bootstrap.png" height="40" title="Bootstrap">
+<img src="https://img.icons8.com/color/2x/material-ui.png" height="40" title="Material UI">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" title="Postman">
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YourGithubUsername&show_icons=true&theme=radical&hide_border=false" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGithubUsername&layout=compact&theme=radical&hide_border=false" height="170">
+</p>
+
+---
+
+## 🚀 **Highlighted Projects**
+- ✨ **Full Stack MERN E-Commerce**
+- 🔐 **Authentication System (JWT + Firebase)**
+- 📱 **Flutter Mobile UI Kit**
+- 🌍 **Real-Life CRUD Apps with Search & Filters**
+
+---
+
+### ⭐ *“Code is like humor. When you have to explain it, it’s bad.”*  
