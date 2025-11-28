@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Hassan Ali — MERN Stack Developer</h1>
+# 🔥 Hassan Ali — MERN Stack Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Clean+Code+Enthusiast;Problem+Solver;Always+Learning+More+🚀" />
@@ -7,13 +7,12 @@
 ---
 
 ## 🌟 About Me
-Hi! I'm **Hassan Ali**, a passionate developer who loves building  
-**Fast, Scalable & User-Friendly Web Apps** using modern technologies.
+Hi! I'm **Hassan Ali**, a passionate developer who builds **fast, scalable & user-friendly web apps** using modern technologies.
 
 - 🔥 Focus: **React, Node.js, MongoDB, Firebase**
-- 🧠 Improving skills in **Backend + System Architecture**
-- 🎨 Love clean UI/UX & smooth user experiences
-- 🚀 Always exploring new tools & technologies
+- 🧠 Improving skills in **Backend & System Architecture**
+- 🎨 I care about clean UI/UX & good developer experience
+
 ---
 
 ## 🛠 Tech Stack
@@ -23,31 +22,55 @@ Hi! I'm **Hassan Ali**, a passionate developer who loves building
 
 ---
 
-## 📊 GitHub Insights
+## 🧾 Most Used Languages
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YourGithubUsername&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YourGithubUsername&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGithubUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🚀 Projects Showcase
-### 🔹 **MERN E-Commerce Platform**
-Full-stack e-commerce app with admin dashboard, payments & filters.
+## ✅ Selected Projects
 
-### 🔹 **JWT + Firebase Auth System**
-Secure and scalable authentication system with multiple login methods.
+### 1) ✅ **ToDoList — (HTML • CSS • JavaScript)**
+- Simple, fast, offline-capable ToDo app.
+- Features: add/edit/delete tasks, filter (all/active/completed), localStorage persistence.
+- Tech: HTML/CSS/vanilla JS
+- Demo: `https://your-domain.com/todo`
 
+### 2) 🛍 **E‑Commerce (React)**
+- React-based e-commerce storefront (product list, product page, cart, checkout UI).
+- Tech: React hooks + Context API or Redux, responsive layout.
+- Demo: `https://your-domain.com/react-ecommerce`
+
+### 3) 🏷️ **Daraz‑Desi — E‑commerce Backend**
+- Node.js + Express backend API for a desi marketplace.
+- Features: product CRUD, user auth (JWT), role-based access (admin/shopper), order endpoints.
+- Example routes:
+  - `POST /api/auth/register` — register user
+  - `POST /api/auth/login` — login → JWT
+  - `GET /api/products` — list (supports `?page=&limit=&search=&category=`)
+  - `POST /api/products` — create product (admin)
+  - `POST /api/orders` — create order
+- Demo/Repo: `https://your-domain.com/daraz-desi-backend`
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YourGithubUsername&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.in/"><img height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2"></a>
-  <a href="mailto:yourgmail@gmail.com"><img height="40" src="https://cdn.simpleicons.org/gmail/EA4335"></a>
-  <a href="https://facebook.com/"><img height="40" src="https://cdn.simpleicons.org/facebook/1877F2"></a>
+  <a href="https://www.linkedin.com/in/YourLinkedInHandle"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:yourgmail@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <a href="https://github.com/YourGithubUsername"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-<h3 align="center">✨ “Great code is written with passion — not pressure.”</h3>
+<h3 align="center">✨ “Code with purpose, ship with pride.”</h3>
