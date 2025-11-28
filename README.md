@@ -1,4 +1,4 @@
-# 🔥 Hassan Ali — MERN Stack Developer
+#  Hassan Ali — MERN Stack Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Clean+Code+Enthusiast;Problem+Solver;Always+Learning+More+🚀" />
