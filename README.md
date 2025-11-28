@@ -1,67 +1,52 @@
-<h1 align="center">🚀 Hassan Ali</h1>
-<h3 align="center">Full Stack MERN Developer • Backend Learner • UI/UX Improver</h3>
+<h1 align="center">Hassan Ali</h1>
+<p align="center"><em>MERN Stack Developer • API Builder • UI/UX Focused</em></p>
 
 ---
 
-## 🎨 Who I Am
-I'm a passionate developer who loves building **smart, fast and scalable** applications.  
-Coding ka maqsad simple hai:  
-👉 *Solve problems beautifully.*
+## 👋 About Me  
+Clean, elegant & scalable code mera focus hai.  
+Mujhe modern interfaces aur powerful backend systems banana pasand hai.
 
-### 👨‍💻 What I Build
-- Full MERN stack apps  
-- User-focused UI/UX  
-- Secure authentication systems  
-- Efficient backend logic  
+- MERN Stack Developer  
+- Backend logic & APIs  
+- UI/UX improvement  
+- Firebase + JWT auth systems  
 
 ---
 
-## 🧰 Tech Skills  
+## 🛠 Skills  
 <div align="center">
   
-**Frontend:** React, Next.js, Tailwind, CSS, MUI  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, Firebase  
-**Tools:** Git, GitHub, Postman, VSCode  
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,postman" height="50"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 **MERN Commerce Pro**
-Complete e-commerce platform with filters, cart, admin panel, reviews.
-
-### 🔹 **AuthMaster (JWT + Firebase)**
-Secure authentication with token protection & multi-role support.
-
-### 🔹 **Flutter Mobile UI Kit**
-Beautiful mobile UI screens for production-ready apps.
-
-### 🔹 **CRUD Plus**
-Advanced CRUD with search, pagination, sorting & clean UI.
+## 🚀 Projects  
+- **MERN E-Commerce** — full store, cart, filters, admin  
+- **JWT + Firebase Auth System** — secure, multi-role login  
+- **CRUD App Pack** — search, pagination, filters  
+- **Flutter UI Screens** — modern design templates  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats  
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=YourGithubUsername&theme=tokyonight&show_icons=true&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGithubUsername&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YourGithubUsername&theme=graywhite&show_icons=true&hide_border=true" height="160"/>
 
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Contact  
 <div align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>
-<a href="mailto:yourgmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=facebook" height="42"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="mailto:yourgmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
 </div>
 
 ---
 
-<h3 align="center">✨ “Good code is readable. Great code is enjoyable.” ✨</h3>
+<h3 align="center">“Simplicity is the ultimate sophistication.”</h3>
