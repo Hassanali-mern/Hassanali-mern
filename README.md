@@ -1,51 +1,42 @@
-<h1 align="center">✨ Hassan Ali — Creative MERN Developer ✨</h1>
+<h1 align="center">⚡ Hassan Ali — MERN Stack Engineer ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Developer+by+Choice;Problem+Solver+by+Nature;Always+Learning+Always+Growing;Turning+Ideas+Into+Reality&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Passionate+Problem+Solver;Backend+%26+Frontend+Wizard;Lifelong+Learner&center=true&width=550&height=45">
 </p>
 
 ---
 
-## 🌱 Who Am I?
-A passionate MERN stack developer who loves crafting modern, clean and user-friendly digital solutions.  
-Main har project ko ek challenge aur ek nayi learning ke sath leta hoon.
+## 🚀 About Me
+I’m a **MERN Stack Engineer** who loves building high-performance web applications.  
+Meri coding philosophy simple hai: *“Write it clean, write it scalable, write it smart.”*
 
-### 💼 What I Focus On
-- ⚡ High-performance web apps  
-- 🎨 Clean UI/UX  
-- 🔒 Secure & scalable backend systems  
-- 🧠 Logical problem-solving  
+- ⚙️ Deeply focused on **backend logic & architecture**  
+- 🎨 Enjoy crafting **beautiful UI with React**  
+- 🧩 Love solving complex problems  
+- 📚 Constantly leveling up my skills  
 
 ---
 
-## 🛠 Tech Arsenal
+## 🧰 Tech & Tools I Use
 <p align="center">
-<img src="https://img.icons8.com/color/2x/react-native.png" height="45">
-<img src="https://img.icons8.com/color/2x/nodejs.png" height="45">
-<img src="https://img.icons8.com/color/2x/mongodb.png" height="45">
-<img src="https://img.icons8.com/color/2x/firebase.png" height="45">
-<img src="https://img.icons8.com/color/2x/javascript.png" height="45">
-<img src="https://img.icons8.com/color/2x/bootstrap.png" height="45">
-<img src="https://img.icons8.com/color/2x/git.png" height="45">
+<img height="45" src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,git,github,postman,tailwind,bootstrap" />
 </p>
 
 ---
 
-## 🚀 Highlighted Projects
-- 🛒 **E-Commerce Store (MERN + Context API)**  
-- 🔐 **Auth System with Role-Based Access**  
-- 📱 **Flutter Mobile UI Screens**  
-- 📝 **Full CRUD Applications**  
-
----
-
-## 🤝 Connect With Me
+## 📊 My GitHub Performance
 <p align="center">
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40"></a>
-<a href="mailto:yourgmail@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="40"></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="40"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGithubUsername&theme=neon-dark" height="160"/>
 </p>
 
 ---
 
-### 🌟 *“Every line of code is a step towards something bigger.”*
+## 🚀 Projects I’m Proud Of
+- 🛒 **HyperFast MERN Store — with Filters, Auth, Cart & Admin Panel**  
+- 🔐 **Secure Auth System (JWT + Firebase Multi-Login)**  
+- 🌐 **Real-world CRUD Apps with Perfect UI/UX**  
+- 📱 **Flutter Mobile Components Library**  
+
+---
+
+### ✨ *“Code that survives time is the code written with clarity and purpose.”*
