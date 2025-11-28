@@ -1,52 +1,56 @@
-<h1 align="center">Hassan Ali</h1>
-<p align="center"><em>MERN Stack Developer • API Builder • UI/UX Focused</em></p>
+<h1 align="center">🔥 Hassan Ali — MERN Stack Developer</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Clean+Code+Enthusiast;Problem+Solver;Always+Learning+More+🚀" />
+</p>
 
 ---
 
-## 👋 About Me  
-Clean, elegant & scalable code mera focus hai.  
-Mujhe modern interfaces aur powerful backend systems banana pasand hai.
+## 🌟 About Me
+Hi! I'm **Hassan Ali**, a passionate developer who loves building  
+**Fast, Scalable & User-Friendly Web Apps** using modern technologies.
 
-- MERN Stack Developer  
-- Backend logic & APIs  
-- UI/UX improvement  
-- Firebase + JWT auth systems  
-
----
-
-## 🛠 Skills  
-<div align="center">
-  
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,postman" height="50"/>
-
-</div>
+- 🔥 Focus: **React, Node.js, MongoDB, Firebase**
+- 🧠 Improving skills in **Backend + System Architecture**
+- 🎨 Love clean UI/UX & smooth user experiences
+- 🚀 Always exploring new tools & technologies
 
 ---
 
-## 🚀 Projects  
-- **MERN E-Commerce** — full store, cart, filters, admin  
-- **JWT + Firebase Auth System** — secure, multi-role login  
-- **CRUD App Pack** — search, pagination, filters  
-- **Flutter UI Screens** — modern design templates  
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,git,github,vercel,tailwind,bootstrap,linux" />
+</p>
 
 ---
 
-## 📊 Stats  
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YourGithubUsername&theme=graywhite&show_icons=true&hide_border=true" height="160"/>
-
-</div>
-
----
-
-## 📬 Contact  
-<div align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="mailto:yourgmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-</div>
+## 📊 GitHub Insights
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YourGithubUsername&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YourGithubUsername&theme=tokyonight" />
+</p>
 
 ---
 
-<h3 align="center">“Simplicity is the ultimate sophistication.”</h3>
+## 🚀 Projects Showcase
+### 🔹 **MERN E-Commerce Platform**
+Full-stack e-commerce app with admin dashboard, payments & filters.
+
+### 🔹 **JWT + Firebase Auth System**
+Secure and scalable authentication system with multiple login methods.
+
+### 🔹 **Flutter Mobile UI Kit**
+Beautiful and production-ready mobile UI components.
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/"><img height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2"></a>
+  <a href="mailto:yourgmail@gmail.com"><img height="40" src="https://cdn.simpleicons.org/gmail/EA4335"></a>
+  <a href="https://facebook.com/"><img height="40" src="https://cdn.simpleicons.org/facebook/1877F2"></a>
+</p>
+
+---
+
+<h3 align="center">✨ “Great code is written with passion — not pressure.”</h3>
