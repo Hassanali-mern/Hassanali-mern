@@ -1,42 +1,45 @@
-<h1 align="center">⚡ Hassan Ali — MERN Stack Engineer ⚡</h1>
+<h1 align="center">👋 Hey, I'm Hassan Ali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Passionate+Problem+Solver;Backend+%26+Frontend+Wizard;Lifelong+Learner&center=true&width=550&height=45">
+  <em>Full Stack MERN Developer | Backend Enthusiast | UI/UX Improver</em>
 </p>
 
 ---
 
-## 🚀 About Me
-I’m a **MERN Stack Engineer** who loves building high-performance web applications.  
-Meri coding philosophy simple hai: *“Write it clean, write it scalable, write it smart.”*
+## ✨ Who I Am
+A developer who believes that great code is not just functional —  
+it's clean, purposeful, and enjoyable to work with.
 
-- ⚙️ Deeply focused on **backend logic & architecture**  
-- 🎨 Enjoy crafting **beautiful UI with React**  
-- 🧩 Love solving complex problems  
-- 📚 Constantly leveling up my skills  
+- 🔍 Currently improving my **backend engineering skills**  
+- ⚡ Believe in **performance-first development**  
+- 📦 Comfortable building **complete MERN applications**  
+- 💬 Happy to talk about **React, Node, Firebase, MongoDB**  
 
 ---
 
-## 🧰 Tech & Tools I Use
+## 🛠 Tech Stack I Work With
+- **Frontend:** React, Next.js, Tailwind, Material UI  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Other Tools:** Firebase, Postman, Git, VSCode  
+
+---
+
+## 🌟 Featured Work
+- ⚙️ Complete MERN E-Commerce Platform  
+- 🔥 Authentication (Email/Password + Google + JWT)  
+- 📱 Flutter UI Templates  
+- 🔎 Search, Pagination & Filters Based Apps  
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
-<img height="45" src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,git,github,postman,tailwind,bootstrap" />
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+<a href="mailto:yourgmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=facebook" height="40"></a>
 </p>
 
 ---
 
-## 📊 My GitHub Performance
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGithubUsername&theme=neon-dark" height="160"/>
-</p>
-
----
-
-## 🚀 Projects I’m Proud Of
-- 🛒 **HyperFast MERN Store — with Filters, Auth, Cart & Admin Panel**  
-- 🔐 **Secure Auth System (JWT + Firebase Multi-Login)**  
-- 🌐 **Real-world CRUD Apps with Perfect UI/UX**  
-- 📱 **Flutter Mobile Components Library**  
-
----
-
-### ✨ *“Code that survives time is the code written with clarity and purpose.”*
+### 💡 *“A good developer writes code. A great developer builds experiences.”*
