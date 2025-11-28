@@ -14,7 +14,6 @@ Hi! I'm **Hassan Ali**, a passionate developer who loves building
 - 🧠 Improving skills in **Backend + System Architecture**
 - 🎨 Love clean UI/UX & smooth user experiences
 - 🚀 Always exploring new tools & technologies
-
 ---
 
 ## 🛠 Tech Stack
@@ -39,14 +38,12 @@ Full-stack e-commerce app with admin dashboard, payments & filters.
 ### 🔹 **JWT + Firebase Auth System**
 Secure and scalable authentication system with multiple login methods.
 
-### 🔹 **Flutter Mobile UI Kit**
-Beautiful and production-ready mobile UI components.
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/"><img height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2"></a>
+  <a href="https://www.linkedin.in/"><img height="40" src="https://cdn.simpleicons.org/linkedin/0A66C2"></a>
   <a href="mailto:yourgmail@gmail.com"><img height="40" src="https://cdn.simpleicons.org/gmail/EA4335"></a>
   <a href="https://facebook.com/"><img height="40" src="https://cdn.simpleicons.org/facebook/1877F2"></a>
 </p>
