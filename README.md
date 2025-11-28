@@ -1,45 +1,49 @@
-<h1 align="center">👋 Hey, I'm Hassan Ali</h1>
+<h1 align="center">✨ Hassan Ali ✨</h1>
+<p align="center"><strong>MERN Stack Developer | Building Smart Digital Experiences</strong></p>
+
+---
 
 <p align="center">
-  <em>Full Stack MERN Developer | Backend Enthusiast | UI/UX Improver</em>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Ideas+Into+Code;Creating+Digital+Magic;Passionate+About+Innovation;Clean+Code+Advocate&center=true&width=520&height=45">
 </p>
 
 ---
 
-## ✨ Who I Am
-A developer who believes that great code is not just functional —  
-it's clean, purposeful, and enjoyable to work with.
+## 🎯 About Me
+Creative developer jise **modern UI**, **smart logic**, aur **clean architecture** pasand hai.  
+Web apps banata hoon jo fast bhi hoti hain aur smooth bhi.
 
-- 🔍 Currently improving my **backend engineering skills**  
-- ⚡ Believe in **performance-first development**  
-- 📦 Comfortable building **complete MERN applications**  
-- 💬 Happy to talk about **React, Node, Firebase, MongoDB**  
-
----
-
-## 🛠 Tech Stack I Work With
-- **Frontend:** React, Next.js, Tailwind, Material UI  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Other Tools:** Firebase, Postman, Git, VSCode  
+### 🔸 Expertise
+- Full Stack MERN Development  
+- Responsive UI/UX + Design Systems  
+- Secure Auth & APIs  
+- Real-World App Architecture  
 
 ---
 
-## 🌟 Featured Work
-- ⚙️ Complete MERN E-Commerce Platform  
-- 🔥 Authentication (Email/Password + Google + JWT)  
-- 📱 Flutter UI Templates  
-- 🔎 Search, Pagination & Filters Based Apps  
-
----
-
-## 🌐 Connect With Me
+## ⚙️ My Toolkit
 <p align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-<a href="mailto:yourgmail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=facebook" height="40"></a>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,tailwind,git,github,vscode" height="48"/>
 </p>
 
 ---
 
-### 💡 *“A good developer writes code. A great developer builds experiences.”*
+## 🚀 Cool Stuff I've Built
+- 💼 **Portfolio-Grade MERN Projects**  
+- 🛒 **E-Commerce App with Admin Dashboard**  
+- 🔐 **JWT + Firebase Auth System**  
+- 📱 **Flutter Mobile UI Screens**  
+- 🔄 **Full CRUD Apps with Search & Filters**  
+
+---
+
+## 🤝 Let’s Connect
+<p align="center">
+<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="35"/></a>
+<a href="mailto:yourgmail@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="35"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" height="35"/></a>
+</p>
+
+---
+
+### 🌟 *“Great software is built when creativity meets discipline.”*
