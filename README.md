@@ -14,6 +14,7 @@ Hi! I'm **Hassan Ali**, a passionate developer who builds **fast, scalable & use
 - 🎨 I care about clean UI/UX & good developer experience
 
 ---
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="564f6b22-f28f-4626-abd1-4808fd1009c6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## 🛠 Tech Stack
 <p align="center">
